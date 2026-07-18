@@ -1,1 +1,1 @@
-# Bazz-telegram-store-bot
+# Bazz-telegram-store-bot by @BazzHacker963
